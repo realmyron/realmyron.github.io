@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: realmyron.github.io/litvinism
+  baseUrl: realmyron.github.io
   ignorePatterns:
     - private
     - templates
